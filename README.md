@@ -1,2 +1,2 @@
 # Leetcode
-My leetcode Problems.
+Solving a problem daily on leetcode.
