@@ -6,11 +6,13 @@ Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheKartik-Codes/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/TheKartik-Codes/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/TheKartik-Codes/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheKartik-Codes/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/TheKartik-Codes/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -23,5 +25,18 @@ Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/TheKartik-Codes/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/TheKartik-Codes/Leetcode/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TheKartik-Codes/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TheKartik-Codes/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TheKartik-Codes/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
